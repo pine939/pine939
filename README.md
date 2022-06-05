@@ -34,8 +34,13 @@
 ---
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pine939&layout=compact)](https://github.com/pine939/github-readme-stats)
-
 <!--
+---
+
+### LeetCode
+![Leetcode Stats](https://leetcard.jacoblin.cool/pine939)
+
+
 **pine939/pine939** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
