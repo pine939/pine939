@@ -1,8 +1,8 @@
 ### Hi there 👋 I'm dasol kang.
 
 - 🔭 I’m currently working on endpoint security solution.
-- 👀 I'm interested in open source project, ELK.
-- 🌱 I’m currently learning C++, EDR, ELK.
+- 👀 I'm interested in Data Transformation & Log Analytics (using ELK stack, kafka, docker, k8s, ...)
+- 🌱 I’m currently learning C++, Design Pattern for OOP, and Clean Code.
 
 ---
 ### Tech Stack
